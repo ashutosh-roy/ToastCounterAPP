@@ -1,0 +1,13 @@
+
+<resources>
+<!--    <string name="app_name"> <center> Welcome User</center></string>-->
+    <string name="button_label_toast">Total</string>
+    <string name="button_label_count">Clear</string>
+    <string name="count_initial_value">0</string>
+<!--    <string name="toast_message">Hello Toast!</string>-->
+    <string name="button_add">+</string>
+    <string name="button_sub">-</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <!--    <string name="button">Button</string>-->
+</resources>
